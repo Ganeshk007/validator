@@ -1,4 +1,4 @@
-** PHP Validator **
+**PHP Validator**
 
 ## Options(Functions)
  * Required
